@@ -46,3 +46,14 @@ Then, to access TOR/I2P/YGG, connect to `http://192.168.42.1:8888`
 4. Select manual
 5. Enter 192.168.42.1:8888
 7. Connect to the VPN
+
+
+## Contact via RetroShare
+
+For direct contact and project coordination, you can reach us through RetroShare. Add this public RetroShare certificate to your contacts:
+
+```text
+ABCDCA4iYSA/R3eLKGve+Xh/AQpCZWxsaW5nY2F0AxQpROvRHO0431TmXqzV1lrCGXOziZMGjB+owBNNBAONzFA=
+```
+
+Please share your own certificate in return so we can establish a mutual connection.
